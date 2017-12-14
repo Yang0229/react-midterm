@@ -1,0 +1,45 @@
+
+.age{
+  color: purple;
+  font-size: 30px;
+}
+
+
+  .contact {
+      .row {
+    display: inline-block;
+    width: 100%; }
+}
+
+ul {
+  list-style-type: none;
+}
+
+  .title {
+    font-size: 60px;
+    border: solid red 1px;
+	  text-align: center;
+    width: 95%;
+}
+.detail-profile{
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+  .column {
+    float: left;
+    padding: 0.1rem;
+.list {
+      width: 30%;
+      height: 100%;
+    }
+    .details {
+      width: 80%;
+		clear: both;
+    }
+	 .data {
+		 p{
+			 margin-top: 4px;
+			 margin-bottom: 2px;
+		 }
+	  }
+}
